@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<Head>  
+    <title>  
+    Lab 2
+    </title>  
+</Head>  
+    
+<Body>   
+    <center> <!-- This tag is used to align elements to center-->
+    <font color="green"> <!-- Used to change font design of a particular section-->
+    <H1>Lab 2 Webpage</H1> <!-- Hn tags are used to define header elements-->
+    <p>
+        In this webpage we will explore various html tags.
+        <br> <!-- This tag used to skip sentence to next line-->
+        We will use about 30 tags in html.
+    </font></p>
+ 
+    Click on <a href="https://www.google.com"> this link </a> to access google.   <!-- anchor tag is used to link webpages -->
+
+<p><font color="blue">
+   <h2> Vision</h2>
+    <strong>CHRIST (Deemed to be University)</strong><!-- this tag is used to highlight font-->, a premier educational institution, is an academic fraternity of individuals dedicated to the motto of <u> 'EXCELLENCE AND SERVICE.'</u><!-- this tag is used to underline text-->
+    
+    We strive to reach out to the star of perfection through an earnest academic pursuit for<i> 'excellence,'</i><!-- this tag is used to change text to italics-->and our efforts blossom into 'service' through our creative and empathetic involvement in the society to transform it.
+    
+    Education prepares one to face the challenges of life by bringing out the best in him/her. If this is well accepted, education should be relevant to the needs of the time and address the problems of the day. Being inspired
+    by <big>Blessed Kuriakose Elias Chavara</big><!-- tag chagnes font to big-->, the founder of <small>Carmelites of Mary Immaculate </small><!-- tag is used to convert text to small-->and the pioneer in innovative education,<strike> CHRIST (Deemed to be University)</strike> <!--tag is used to strike text--> was proactive to define and redefine its mission and strategies reading the signs of the time.
+</p></font>
+
+Courses offered are as of 22<sup>nd</sup><!-- superscript tag--> December 2022 are: 
+<ol><!-- this tag is used ot create an orederd list-->
+    <li>BSC</li> <!-- enters list item-->
+    <li>MSC</li>
+    <LI>BBA</LI>
+    <LI>MBA</LI>
+    <LI>LAW</LI>
+
+</ol>
+
+<b>Sports Facilities include:</b> <!--this tag ios used to conver text to bold-->
+<ul> <!-- this tag is used to create an unordered list-->
+    <li>Gym</li>
+    <li>Futsal ground</li>
+    <li>Basketball court</li>
+</ul>
+
+
+    <table border="2">  <!-- This tag is used to create table-->
+
+        <tr> <!-- Table row tag-->
+            <th>First_Name</th> <!-- table header tag-->
+            <th>Last_Name</th>
+            <th>Class</th>
+        </tr>  
+        <tr>
+            <td>Anu</td> <!-- table data tag-->
+            <td>Sharma</td>
+            <td>BscDS</td>
+        </tr>  
+        <tr>
+            <td>Fathima</td>
+            <td>James</td>
+            <td>BSCEA</td>
+        </tr>  
+        <tr>
+            <td>Parvez</td>
+            <td>Mohamed</td>
+            <td>BSCDS</td>
+        </tr>  
+        <tr>
+            <td>Mubbu</td>
+            <td>John</td>
+            <td>BscDS</td>
+        </tr>  
+        </table>  
+
+    </center>  
+    <footer>  <!-- used to set footer of webpage-->
+        <p>Developed By:- Mohamed Parvez</p>  
+        <p>   
+        <address> portofino street, lavasa, Pune - 412112
+        </address>   <!-- set address-->
+        </p>  
+        <p>Contact information:   
+        <a href="mailto:mohammedparvez125@gmail.com">mohammedparvez125@gmail.com</a>.  
+        </p>  
+        </footer>  
+</Body>  
+</Html>  
